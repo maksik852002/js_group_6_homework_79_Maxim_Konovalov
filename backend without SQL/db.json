@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "name": "Мебель",
+      "id": "KYY6D-PwzKar6AUGQI5Bs"
+    },
+    {
+      "name": "Компьютерное оборудование",
+      "id": "P5t5TxOygTdQOObBL30ci"
+    },
+    {
+      "name": "Бытовая техника",
+      "id": "Qh7eSj3x3dnqKFWPtcZ3u"
+    }
+  ],
+  "places": [
+    {
+      "name": "Финансовый отдел",
+      "description": "каб. 406",
+      "id": "4o1Sfa9EMzgl8EjbH5ZjH"
+    },
+    {
+      "name": "Абонентский отдел",
+      "description": "каб. 307",
+      "id": "TBmG60WkSr9NiG8abVKp4"
+    },
+    {
+      "name": "Бухгалтерия",
+      "description": "каб. 405",
+      "id": "YPzcs-YyNoM_hb_-RXo-q"
+    },
+    {
+      "name": "Отдел продаж",
+      "description": "каб. 308",
+      "id": "atzq4gNfF7rNKeqgmSHfH"
+    }
+  ],
+  "inventory": [
+    {
+      "category_id": "KYY6D-PwzKar6AUGQI5Bs",
+      "places_id": "4o1Sfa9EMzgl8EjbH5ZjH",
+      "name": "Диван офисный",
+      "description": "инв. 8989",
+      "image": "Idm4Z7TL7UzLMSOkhUluG.jpeg",
+      "id": "0oM8CJUVjYVQ0WV6m4FbT"
+    },
+    {
+      "category_id": "KYY6D-PwzKar6AUGQI5Bs",
+      "places_id": "TBmG60WkSr9NiG8abVKp4",
+      "name": "Стол офисный",
+      "description": "инв. 8977",
+      "image": "AnRbl3xgdMdKH2ZCMaUj6.jpeg",
+      "id": "hmvXQrbXTmulI6Hp2dbhi"
+    },
+    {
+      "category_id": "P5t5TxOygTdQOObBL30ci",
+      "places_id": "4o1Sfa9EMzgl8EjbH5ZjH",
+      "name": "МФУ Xerox 6110MFPS ",
+      "description": "инв. 8999",
+      "image": "mDSSNIFJUaE9lSKE98-4-.jpeg",
+      "id": "6jYyWlYhRjG6o7rf4yHp9"
+    },
+    {
+      "category_id": "Qh7eSj3x3dnqKFWPtcZ3u",
+      "places_id": "YPzcs-YyNoM_hb_-RXo-q",
+      "name": "Кондиционер Dahatsu DA-09",
+      "description": "инв. 3352",
+      "image": "cwP3DslZw3ZQHQsybL2G3.jpeg",
+      "id": "UlZAZfLkzB3nYYu2qf0-n"
+    }
+  ]
+}
